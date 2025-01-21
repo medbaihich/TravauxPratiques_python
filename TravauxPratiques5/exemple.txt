@@ -1,0 +1,3 @@
+Ligne1: bonjour
+Ligne2:Bon après-midi
+Ligne3:Bonsoir
